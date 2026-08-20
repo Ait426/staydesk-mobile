@@ -1,34 +1,54 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "Ait426/staydesk",
-  "sourceCommit": "c5fe7c441496770ab19d11d3afc9ed783aa0cfba",
+  "sourceCommit": "0c82dc2f05785a6bfd1c19d30439237caec0d69a",
   "targetRepository": "Ait426/staydesk-mobile",
   "projectRef": "frgodtmcfaloxxynbsex",
   "files": [
     {
-      "path": "assets/index-DDQRb_kr.css",
-      "size": 5519,
-      "sha256": "843574db6f24ece7a58960b248d7f8eb4c208b27eae76d272ee3b8fc3f6a0a98"
+      "path": "assets/index-CLzOLV39.css",
+      "size": 9425,
+      "sha256": "d26533f4255651696bd70f9f69416d4f8777ae6853d174fbc6b45fb05f8a73e6"
     },
     {
-      "path": "assets/index-DW7xpdlI.js",
-      "size": 389246,
-      "sha256": "812980f054654d30ee1a2a702fb00d422568afc76143f4f598bce1cc4005133a"
+      "path": "assets/index-t9J4qTNb.js",
+      "size": 385440,
+      "sha256": "7a0acebcf3ed51aa81b65ffe9633dfd52e98a465408928783860442f5e331713"
     },
     {
       "path": "index.html",
-      "size": 973,
-      "sha256": "8a99d409564381872b89a8d8647b0be813b47d04cf69122987bbb81c8fd1eea7"
+      "size": 1379,
+      "sha256": "3bd6e3fa30791580abcc9b969f2580188314d09a225ae8e4ef07e8c801607a4a"
+    },
+    {
+      "path": "inspection-icon-180.png",
+      "size": 1712,
+      "sha256": "0f6e3ad32c4523251a6ff1cfc68be8abb6b56600f012600053b4b1da39f9c711"
+    },
+    {
+      "path": "inspection-icon-192.png",
+      "size": 1845,
+      "sha256": "74c70bf99dcaf85d34e58c114432d8e473937f00595b5420cf6473fb3d4c7f49"
+    },
+    {
+      "path": "inspection-icon-512.png",
+      "size": 6206,
+      "sha256": "f79d744a2c02ab829357d874c61d8c8053d906f43a9e9a485037845c9d8b4461"
+    },
+    {
+      "path": "inspection-icon.svg",
+      "size": 577,
+      "sha256": "017fef63381b44c25ed69284799555714f5629b5cdfc2243afa231d26c65c8dc"
     },
     {
       "path": "manifest.webmanifest",
-      "size": 288,
-      "sha256": "fcb4ced1237af2aee29dea92b493ddd72860137b4eb1b61619457d0992670440"
+      "size": 572,
+      "sha256": "2c7b5c32078070f90241e02434ab34ea7eae6f2e1b4022d8ffe1c6fc77d62094"
     },
     {
       "path": "sw.js",
-      "size": 1146,
-      "sha256": "4e737d3b2a54621bea603f07c722faccf25276508c83546df71efc86674efb5e"
+      "size": 1250,
+      "sha256": "1ae99c1c68dc411069ccc7b86d6289c4b16a55f0511daa9952595c5a09ccc830"
     }
   ]
 }

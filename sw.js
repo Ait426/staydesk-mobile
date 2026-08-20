@@ -1,6 +1,6 @@
-const CACHE_NAME = 'staydesk-inspection-v2'
+const CACHE_NAME = 'staydesk-inspection-v3'
 const APP_ROOT = self.registration.scope
-const APP_SHELL = ['', 'index.html', 'manifest.webmanifest'].map((path) => new URL(path, APP_ROOT).href)
+const APP_SHELL = ['', 'index.html', 'manifest.webmanifest', 'inspection-icon.svg', 'inspection-icon-180.png', 'inspection-icon-192.png', 'inspection-icon-512.png'].map((path) => new URL(path, APP_ROOT).href)
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)))
