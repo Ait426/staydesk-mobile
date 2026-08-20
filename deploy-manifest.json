@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "Ait426/staydesk",
-  "sourceCommit": "a57eecf32138a94e55b2789487a7de483b4de97f",
+  "sourceCommit": "c5fe7c441496770ab19d11d3afc9ed783aa0cfba",
   "targetRepository": "Ait426/staydesk-mobile",
   "projectRef": "frgodtmcfaloxxynbsex",
   "files": [
@@ -11,14 +11,14 @@
       "sha256": "843574db6f24ece7a58960b248d7f8eb4c208b27eae76d272ee3b8fc3f6a0a98"
     },
     {
-      "path": "assets/index-DU1vULp0.js",
-      "size": 389214,
-      "sha256": "6d62fffc6c7db7fb07cddc75356a59eddd2ea3727d410b7abc9a349e63a928f6"
+      "path": "assets/index-DW7xpdlI.js",
+      "size": 389246,
+      "sha256": "812980f054654d30ee1a2a702fb00d422568afc76143f4f598bce1cc4005133a"
     },
     {
       "path": "index.html",
-      "size": 925,
-      "sha256": "217a05095fe9c5ca1ee1259615ffce3d345caa74a8afaaa8626124cd49cace94"
+      "size": 973,
+      "sha256": "8a99d409564381872b89a8d8647b0be813b47d04cf69122987bbb81c8fd1eea7"
     },
     {
       "path": "manifest.webmanifest",
