@@ -1,4 +1,4 @@
-const CACHE_NAME = 'staydesk-inspection-v3'
+const CACHE_NAME = 'staydesk-inspection-v4'
 const APP_ROOT = self.registration.scope
 const APP_SHELL = ['', 'index.html', 'manifest.webmanifest', 'inspection-icon.svg', 'inspection-icon-180.png', 'inspection-icon-192.png', 'inspection-icon-512.png'].map((path) => new URL(path, APP_ROOT).href)
 
