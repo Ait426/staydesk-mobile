@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "Ait426/staydesk",
-  "sourceCommit": "4af004b4726baed0b812bdbd154ef0265b52628c",
+  "sourceCommit": "e2e27983416089b8b52311695bcca36705cf1ba7",
   "targetRepository": "Ait426/staydesk-mobile",
   "projectRef": "frgodtmcfaloxxynbsex",
   "files": [
+    {
+      "path": "assets/index-BTGsj6bv.js",
+      "size": 386515,
+      "sha256": "ebef0045727368f75ba29f6adafc88d468b68c795e2d4079b6a976e57d8c3c4b"
+    },
     {
       "path": "assets/index-CLzOLV39.css",
       "size": 9425,
       "sha256": "d26533f4255651696bd70f9f69416d4f8777ae6853d174fbc6b45fb05f8a73e6"
     },
     {
-      "path": "assets/index-D1wq7DnB.js",
-      "size": 385554,
-      "sha256": "8e4f7c496910aa67f8e282f929d4ff7c4bf0835e7ac2833f14b7e4b5788d1a66"
-    },
-    {
       "path": "index.html",
       "size": 1379,
-      "sha256": "46b941dc21f5362e70f96d2e0a30e361b32fad3ec66ab6038229b2f66b0dca3c"
+      "sha256": "8896827a2354828709e2d7b31badb196c4684b4b74af10d153fca91cfd20b53c"
     },
     {
       "path": "inspection-icon-180.png",
