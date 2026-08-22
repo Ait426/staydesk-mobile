@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="스테이데스크 객실 점검">
+  <rect width="512" height="512" rx="112" fill="#173b67"/>
+  <path d="M128 144h256a32 32 0 0 1 32 32v216H96V176a32 32 0 0 1 32-32Z" fill="#fff"/>
+  <path d="M176 112v64M336 112v64" stroke="#fff" stroke-width="32" stroke-linecap="round"/>
+  <path d="m166 282 54 54 126-132" fill="none" stroke="#19a15f" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 392h320" stroke="#fff" stroke-width="24" stroke-linecap="round"/>
+</svg>
