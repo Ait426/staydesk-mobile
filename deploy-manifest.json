@@ -1,54 +1,54 @@
 {
-  "schemaVersion": 1,
-  "sourceRepository": "Ait426/staydesk",
-  "sourceCommit": "0ab245d1ed9c7782ed7c37ccf983e79a60e05976",
-  "targetRepository": "Ait426/staydesk-mobile",
-  "projectRef": "frgodtmcfaloxxynbsex",
-  "files": [
-    {
-      "path": "assets/index-BegwgK3e.css",
-      "size": 10394,
-      "sha256": "df3d2e626e02975f425fb79211a0c7aedf0d7ec88260d94475bf99125b6df7d2"
-    },
-    {
-      "path": "assets/index-BmGyKsO_.js",
-      "size": 398658,
-      "sha256": "94a35cbfbd1e920017f38af9cab28ffe593a30f5ee84a55be3216df5679dcb23"
-    },
-    {
-      "path": "index.html",
-      "size": 1379,
-      "sha256": "7344d9e292559b356904d04c5328dc56c7fa2a30a740866c81c649dafee13646"
-    },
-    {
-      "path": "inspection-icon-180.png",
-      "size": 1712,
-      "sha256": "0f6e3ad32c4523251a6ff1cfc68be8abb6b56600f012600053b4b1da39f9c711"
-    },
-    {
-      "path": "inspection-icon-192.png",
-      "size": 1845,
-      "sha256": "74c70bf99dcaf85d34e58c114432d8e473937f00595b5420cf6473fb3d4c7f49"
-    },
-    {
-      "path": "inspection-icon-512.png",
-      "size": 6206,
-      "sha256": "f79d744a2c02ab829357d874c61d8c8053d906f43a9e9a485037845c9d8b4461"
-    },
-    {
-      "path": "inspection-icon.svg",
-      "size": 577,
-      "sha256": "017fef63381b44c25ed69284799555714f5629b5cdfc2243afa231d26c65c8dc"
-    },
-    {
-      "path": "manifest.webmanifest",
-      "size": 572,
-      "sha256": "2c7b5c32078070f90241e02434ab34ea7eae6f2e1b4022d8ffe1c6fc77d62094"
-    },
-    {
-      "path": "sw.js",
-      "size": 1250,
-      "sha256": "6c9596cd8a1db7babdd62c36ffcd0d1b648c6943599066bed7dafd42b07dd5c8"
-    }
-  ]
+    "schemaVersion":  1,
+    "sourceRepository":  "Ait426/staydesk",
+    "sourceCommit":  "512e6219965f6193c1a36dfeb3d505e701d4c300",
+    "targetRepository":  "Ait426/staydesk-mobile",
+    "projectRef":  "frgodtmcfaloxxynbsex",
+    "files":  [
+                  {
+                      "path":  "assets/index-Dan2wyiG.css",
+                      "size":  12370,
+                      "sha256":  "b8cc65f9af28251353f8b3cb0cfe2d75b37942386f95f86a77b5115813d09b96"
+                  },
+                  {
+                      "path":  "assets/index-fM8RKEHM.js",
+                      "size":  405067,
+                      "sha256":  "3d40728159cdbffea5851b4b1c3321134b63ed371afb53609bef863df6348f6b"
+                  },
+                  {
+                      "path":  "index.html",
+                      "size":  1379,
+                      "sha256":  "5361b48feef081ae0eb580225c921a0abd51a4ce9bbccf5d579248f43b3b454d"
+                  },
+                  {
+                      "path":  "inspection-icon.svg",
+                      "size":  577,
+                      "sha256":  "017fef63381b44c25ed69284799555714f5629b5cdfc2243afa231d26c65c8dc"
+                  },
+                  {
+                      "path":  "inspection-icon-180.png",
+                      "size":  1712,
+                      "sha256":  "0f6e3ad32c4523251a6ff1cfc68be8abb6b56600f012600053b4b1da39f9c711"
+                  },
+                  {
+                      "path":  "inspection-icon-192.png",
+                      "size":  1845,
+                      "sha256":  "74c70bf99dcaf85d34e58c114432d8e473937f00595b5420cf6473fb3d4c7f49"
+                  },
+                  {
+                      "path":  "inspection-icon-512.png",
+                      "size":  6206,
+                      "sha256":  "f79d744a2c02ab829357d874c61d8c8053d906f43a9e9a485037845c9d8b4461"
+                  },
+                  {
+                      "path":  "manifest.webmanifest",
+                      "size":  572,
+                      "sha256":  "2c7b5c32078070f90241e02434ab34ea7eae6f2e1b4022d8ffe1c6fc77d62094"
+                  },
+                  {
+                      "path":  "sw.js",
+                      "size":  1250,
+                      "sha256":  "6c9596cd8a1db7babdd62c36ffcd0d1b648c6943599066bed7dafd42b07dd5c8"
+                  }
+              ]
 }
