@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "Ait426/staydesk",
-  "sourceCommit": "5da23b5fefa92a049047d20c60045b0518302234",
+  "sourceCommit": "855ed16ddaec1fc10f00ccd69c18e732ef44d2c8",
   "targetRepository": "Ait426/staydesk-mobile",
   "projectRef": "frgodtmcfaloxxynbsex",
   "files": [
     {
-      "path": "assets/index-BL1j2RyZ.js",
-      "size": 406886,
-      "sha256": "d3a4eb85ad1ed132f4adb11c288df6a4e20953bf8f97bc935abd355e88320798"
+      "path": "assets/index-D3lHzptN.css",
+      "size": 23607,
+      "sha256": "82998c230081002cc985e1525c0becbae7a19eb413bb4262d4ab14503af84fbc"
     },
     {
-      "path": "assets/index-Dan2wyiG.css",
-      "size": 12370,
-      "sha256": "b8cc65f9af28251353f8b3cb0cfe2d75b37942386f95f86a77b5115813d09b96"
+      "path": "assets/index-DPzp5h0k.js",
+      "size": 485025,
+      "sha256": "99a2de3cf555ec5e2c0876e21383fab8187fd93257d6ddcf2bbf53413e1e8564"
     },
     {
       "path": "index.html",
       "size": 1379,
-      "sha256": "b50f48b844a254561bbced6f596e48f5f0cb0181e6298a928c6037540631146e"
+      "sha256": "f9667327f49086ba463a39892091eeec01f9db68fbaa7d6dd637eaa2b0ec1d8c"
     },
     {
       "path": "inspection-icon-180.png",
@@ -48,7 +48,7 @@
     {
       "path": "sw.js",
       "size": 1250,
-      "sha256": "6c9596cd8a1db7babdd62c36ffcd0d1b648c6943599066bed7dafd42b07dd5c8"
+      "sha256": "c006e56b7e283161411dcb55a0991df8b6c30a31d996c8d7da9224ddaa81c8f0"
     }
   ]
 }
