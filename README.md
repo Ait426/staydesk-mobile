@@ -3,5 +3,5 @@
 Deployment artifacts for the StayDesk mobile room-inspection PWA. No server secrets are stored here.
 
 - Source: https://github.com/Ait426/staydesk
-- Source commit: bf48c79c68315edf7ed4a8fee9ca90cbeee258fc
+- Source commit: cc8ebf9481fb2ca89e7fbef0c44f3dbd7a54cc7a
 - Provenance: deploy-manifest.json
